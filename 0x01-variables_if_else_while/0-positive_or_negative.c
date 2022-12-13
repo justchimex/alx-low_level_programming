@@ -2,14 +2,12 @@
 #include <stdlib.h>
 #include <time.h>
 
-/* more headers goes there */
-/** main - Entry point
+/** 
+ * main - Entry point
  *
  * Return: Always 0
  */
 
-
-/* betty style. This is the main function */
 
 int main(void)
 {
